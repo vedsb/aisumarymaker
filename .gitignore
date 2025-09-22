@@ -1,0 +1,4 @@
+input*.mp4
+ffmpeg-*/bin/*.exe
+*.mp3
+*.mp4
